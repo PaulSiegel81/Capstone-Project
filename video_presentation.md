@@ -1,3 +1,1 @@
-[![Drop The Bottle](https://img.youtube.com/vi/g359CvU1ETo?si/1.jpg)](https://www.youtube.com/watch?v=g359CvU1ETo?si)
-
-[![](https://markdown-videos-api.jorgenkh.no/youtube/g359CvU1ETo?si](https://youtu.be/g359CvU1ETo?si)
+[![Drop The Bottle](https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dg359CvU1ETo%26t)](https://www.youtube.com/watch?v=g359CvU1ETo&t)
